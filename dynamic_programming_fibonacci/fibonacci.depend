@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1686180744 source:d:\hatem\bitnine_apache_age_2023\fibonacci\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1686179703 source:d:\hatem\bitnine_apache_age_2023\fibonacci\q1.c
+	<stdio.h>
+	<stdlib.h>
+	"q1.h"
+
+1686179987 d:\hatem\bitnine_apache_age_2023\fibonacci\q1.h
+
